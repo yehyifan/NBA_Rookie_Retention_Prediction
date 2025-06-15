@@ -12,7 +12,6 @@ Source: Provided [`nba.csv`](https://github.com/yehyifan/NBA_Rookie_Retention_Pr
   - `5yrs`: Binary target variable indicating whether a player stayed in the NBA after five years
 
 ### 3. Tools and Algorithms  
-- Python  
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `plotly`  
 - Machine Learning:  
   - Logistic Regression  
