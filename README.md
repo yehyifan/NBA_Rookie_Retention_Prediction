@@ -4,7 +4,7 @@
 To predict whether an NBA rookie will remain in the league after five years based on their first-season performance metrics.
 
 ### 2. Dataset  
-Source: Provided [`nba.csv`](https://github.com/yehyifan/NBA_Rookie_Retention_Prediction/blob/main/nba.csv) dataset
+Source: Provided [nba.csv](https://github.com/yehyifan/NBA_Rookie_Retention_Prediction/blob/main/nba.csv) dataset
 
 - Number of Instances: Multiple rows representing individual rookies  
 - Key Columns:  
